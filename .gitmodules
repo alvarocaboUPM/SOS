@@ -1,9 +1,7 @@
 [submodule "REST-API-Socialnetwork"]
 	path = REST-API-Socialnetwork
-	url = git@github.com:alvarocaboUPM/SocialMedia-Rest-API.git
-[submodule "SOAP-API-Socialnetwork"]
-	path = SOAP-API-Socialnetwork
-	url = git@github.com:alvarocaboUPM/ETSIINFSocial.git
+	url = https://github.com/alvarocaboUPM/SocialMedia-Rest-API.git
+
 [submodule "ETSIINFSocial"]
 	path = ETSIINFSocial
-	url = git@github.com:alvarocaboUPM/ETSIINFSocial.git
+	url = https://github.com/alvarocaboUPM/ETSIINFSocial.git
