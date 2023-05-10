@@ -4,3 +4,6 @@
 [submodule "SOAP-API-Socialnetwork"]
 	path = SOAP-API-Socialnetwork
 	url = git@github.com:alvarocaboUPM/ETSIINFSocial.git
+[submodule "ETSIINFSocial"]
+	path = ETSIINFSocial
+	url = git@github.com:alvarocaboUPM/ETSIINFSocial.git
